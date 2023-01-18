@@ -1,0 +1,15 @@
+C:\DotnetCore\NewMVC\DAL\bin\Debug\net7.0\DAL.deps.json
+C:\DotnetCore\NewMVC\DAL\bin\Debug\net7.0\DAL.dll
+C:\DotnetCore\NewMVC\DAL\bin\Debug\net7.0\DAL.pdb
+C:\DotnetCore\NewMVC\DAL\bin\Debug\net7.0\BOL.dll
+C:\DotnetCore\NewMVC\DAL\bin\Debug\net7.0\BOL.pdb
+C:\DotnetCore\NewMVC\DAL\obj\Debug\net7.0\DAL.csproj.AssemblyReference.cache
+C:\DotnetCore\NewMVC\DAL\obj\Debug\net7.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\DotnetCore\NewMVC\DAL\obj\Debug\net7.0\DAL.AssemblyInfoInputs.cache
+C:\DotnetCore\NewMVC\DAL\obj\Debug\net7.0\DAL.AssemblyInfo.cs
+C:\DotnetCore\NewMVC\DAL\obj\Debug\net7.0\DAL.csproj.CoreCompileInputs.cache
+C:\DotnetCore\NewMVC\DAL\obj\Debug\net7.0\DAL.csproj.CopyComplete
+C:\DotnetCore\NewMVC\DAL\obj\Debug\net7.0\DAL.dll
+C:\DotnetCore\NewMVC\DAL\obj\Debug\net7.0\refint\DAL.dll
+C:\DotnetCore\NewMVC\DAL\obj\Debug\net7.0\DAL.pdb
+C:\DotnetCore\NewMVC\DAL\obj\Debug\net7.0\ref\DAL.dll
